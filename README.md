@@ -1,2 +1,2 @@
 # Projects
-Interim Project - AdventureWorks Database
+Analysis on the Relational Database - AdventureWorks (Microsoft)
